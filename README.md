@@ -8,7 +8,7 @@
 
 # \## Usage
 
-# 1\. Run `create\_dataset.py`
+# 1\. Run `create_dataset_ai.py`
 
 # 2\. Follow the instructions to input questions and expected answers.
 
